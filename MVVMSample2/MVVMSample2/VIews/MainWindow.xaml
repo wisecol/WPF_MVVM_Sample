@@ -1,0 +1,31 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MVVMSample2"
+        xmlns:ViewModels="clr-namespace:MVVMSample2.ViewModels" x:Class="MVVMSample2.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="350"
+    IsEnabled="{Binding IsFree}">
+    <Window.DataContext>
+        <ViewModels:MainViewModel/>
+    </Window.DataContext>
+    <Grid>
+        <Button Width="50" Height="30"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Margin="10" 
+                Content="Button"
+                Command="{Binding PushBtn, Mode=OneTime}">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+
+        <TextBlock Text="{Binding Status}" Margin="10 60 0 0"/>
+
+    </Grid>
+</Window>
