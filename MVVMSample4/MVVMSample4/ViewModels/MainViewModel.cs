@@ -39,7 +39,7 @@ namespace MVVMSample4.ViewModels
         {
             private readonly Action execute;
             private readonly Func<bool> canExecute;
-
+            
             public DelegateCommand(Action execute) : this(execute,null)
             {                
 
