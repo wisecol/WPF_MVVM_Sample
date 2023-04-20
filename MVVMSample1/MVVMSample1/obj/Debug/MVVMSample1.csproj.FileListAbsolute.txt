@@ -14,3 +14,4 @@ F:\WpfApp\WPF\MVVM_Sample\MVVMSample1\MVVMSample1\obj\Debug\MVVMSample1.pdb
 F:\WpfApp\WPF\MVVM_Sample\MVVMSample1\MVVMSample1\obj\Debug\ViewModel\MainWindow.g.cs
 F:\WpfApp\WPF\MVVM_Sample\MVVMSample1\MVVMSample1\obj\Debug\ViewModel\MainWindow.baml
 F:\WpfApp\WPF\MVVM_Sample\MVVMSample1\MVVMSample1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\WpfApp\WPF\MVVM_Sample\MVVMSample1\MVVMSample1\obj\Debug\MVVMSample1.csproj.SuggestedBindingRedirects.cache

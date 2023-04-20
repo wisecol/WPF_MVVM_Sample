@@ -31,7 +31,24 @@ namespace MVVMSample3.ViewModels
             }
         }
 
+        private bool _isDisabled;
+        public bool IsDisabled
+        {
+            get { return _isDisabled; }
+            set
+            {
+                _isDisabled = value;
+                OnPropertyChanged("Disabled");
+            }
+        }
+
         private ICommand pushButton;
+
+        public MainViewModel()
+        {
+            
+        }
+
         public ICommand PushButton
         {
             get { return (this.pushButton) ?? (this.pushButton = new DelegateCommand(PrintMessage)); }
