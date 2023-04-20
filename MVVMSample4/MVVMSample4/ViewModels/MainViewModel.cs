@@ -34,7 +34,7 @@ namespace MVVMSample4.ViewModels
             _receiveMessage = $"Num = {msg.Num}, Str = {msg.str}";
             OnPropertyChanged("ReceiveMessage");
         }
-
+        
         public class DelegateCommand : ICommand
         {
             private readonly Action execute;
