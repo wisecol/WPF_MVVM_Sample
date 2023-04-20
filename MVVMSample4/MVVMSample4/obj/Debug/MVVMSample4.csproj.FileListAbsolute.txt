@@ -1,0 +1,16 @@
+F:\WpfApp\WPF\MVVM_Sample\MVVMSample4\MVVMSample4\bin\Debug\MVVMSample4.exe.config
+F:\WpfApp\WPF\MVVM_Sample\MVVMSample4\MVVMSample4\bin\Debug\MVVMSample4.exe
+F:\WpfApp\WPF\MVVM_Sample\MVVMSample4\MVVMSample4\bin\Debug\MVVMSample4.pdb
+F:\WpfApp\WPF\MVVM_Sample\MVVMSample4\MVVMSample4\obj\Debug\MVVMSample4.csproj.AssemblyReference.cache
+F:\WpfApp\WPF\MVVM_Sample\MVVMSample4\MVVMSample4\obj\Debug\Views\MainWindow.g.cs
+F:\WpfApp\WPF\MVVM_Sample\MVVMSample4\MVVMSample4\obj\Debug\App.g.cs
+F:\WpfApp\WPF\MVVM_Sample\MVVMSample4\MVVMSample4\obj\Debug\MVVMSample4_MarkupCompile.cache
+F:\WpfApp\WPF\MVVM_Sample\MVVMSample4\MVVMSample4\obj\Debug\MVVMSample4_MarkupCompile.lref
+F:\WpfApp\WPF\MVVM_Sample\MVVMSample4\MVVMSample4\obj\Debug\Views\MainWindow.baml
+F:\WpfApp\WPF\MVVM_Sample\MVVMSample4\MVVMSample4\obj\Debug\MVVMSample4.g.resources
+F:\WpfApp\WPF\MVVM_Sample\MVVMSample4\MVVMSample4\obj\Debug\MVVMSample4.Properties.Resources.resources
+F:\WpfApp\WPF\MVVM_Sample\MVVMSample4\MVVMSample4\obj\Debug\MVVMSample4.csproj.GenerateResource.cache
+F:\WpfApp\WPF\MVVM_Sample\MVVMSample4\MVVMSample4\obj\Debug\MVVMSample4.csproj.CoreCompileInputs.cache
+F:\WpfApp\WPF\MVVM_Sample\MVVMSample4\MVVMSample4\obj\Debug\MVVMSample4.exe
+F:\WpfApp\WPF\MVVM_Sample\MVVMSample4\MVVMSample4\obj\Debug\MVVMSample4.pdb
+F:\WpfApp\WPF\MVVM_Sample\MVVMSample4\MVVMSample4\obj\Debug\GeneratedInternalTypeHelper.g.cs
